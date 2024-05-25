@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Remote debugging RemoteApplication",
+      "request": "attach",
+      "hostName": "localhost",
+      "projectName": "remote-application",
+      "port": "8001"
+    }
+  ]
+}
