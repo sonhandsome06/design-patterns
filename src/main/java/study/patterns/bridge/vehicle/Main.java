@@ -5,5 +5,6 @@ public class Main {
         var RedColor = new RedColor();
         var bike = new BikeShape(RedColor);
         bike.draw();
+        System.out.println("....");
     }
 }
