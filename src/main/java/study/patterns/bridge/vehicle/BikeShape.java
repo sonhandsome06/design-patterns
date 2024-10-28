@@ -9,6 +9,6 @@ public class BikeShape extends Shape {
     void draw() {
         System.out.println("BikeShape:");
         color.fill();
-        System.out.println("main");
+        System.out.println("main-branch");
     }
 }
